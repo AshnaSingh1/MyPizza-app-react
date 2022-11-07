@@ -1,0 +1,16 @@
+table,  tr,  td{
+    margin-left: 20%;
+    margin-right: 0;
+    padding-left: 5pc;
+    padding-right: 5pc;
+    margin-top: 0.3pc;
+    border: 1px solid black;
+}
+
+td {
+    width: min-content;
+}
+
+table {
+    width: 70%;
+}

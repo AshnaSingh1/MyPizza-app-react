@@ -1,0 +1,10 @@
+.navb {
+    display: flex;
+    width: 190vw;
+    /* background-color: blueviolet; */
+    /* margin-top: 12px; */
+}
+
+.cart-button {
+    margin-left: 730px;
+}
